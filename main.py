@@ -1,7 +1,7 @@
 import pygeocoder
 
 # Load the image
-image = Image.open("IMG-8611.JPG")
+image = Image.open("Users/wgierer26/Desktop/IMG-8611.JPG")
 
 # Extract the EXIF data from the image
 exif_data = image._getexif()
